@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "DWVqFzf7XZKqtfeqQAY+NhcFAnr7fRpIWKtE5p5MvIEP4/BAIR+5i6RjUhQu6rUIAfFH/AThs+Yx18VVa+QkEw==",
+  "dgSpecHash": "F9m6TpDOIdwgJgkTeoweIXYK/oGTAxM5TLWnFA9S3CDZTMV711L/O9PGvDcxH9LydYbHUUdalsYJvCAo5CWoYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Влад и Аня\\Desktop\\C# course\\CityManager.WebAPI\\CityManager.Domain\\CityManager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\asp.versioning.abstractions\\8.0.0\\asp.versioning.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\asp.versioning.http\\8.0.0\\asp.versioning.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\asp.versioning.mvc\\8.0.0\\asp.versioning.mvc.8.0.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\asp.versioning.mvc.apiexplorer\\8.0.0\\asp.versioning.mvc.apiexplorer.8.0.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Влад и Аня\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
